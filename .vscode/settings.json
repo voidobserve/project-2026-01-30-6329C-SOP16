@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "ws2812fx.h": "c",
+        "WS2812FX.H": "cpp",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "span": "c",
+        "led_strand_effect.h": "c",
+        "led_strip_sys.h": "c",
+        "random": "c",
+        "clock_hw.h": "c",
+        "board_config.h": "c",
+        "lighting_animation.h": "c",
+        "ws2812fx_effect.h": "c",
+        "save_flash.h": "c",
+        "board_ac632n_demo_cfg.h": "c"
+    }
+}
